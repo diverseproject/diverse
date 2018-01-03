@@ -1,1 +1,15 @@
-Developing
+Diverse is an innovative money disbursement system that aims to generate demand growth through it's unique and dynamic blocks rewards.
+It's a cryptocurrency with hybrid pos/pow mechanism. The POS structure is truly unique and dynamic, as there'll be 100 blocks of 7000% per annum ROI (named as Premium blocks), after every 1000 blocks, with base ROI of 3000%. This will generate continuous attraction for new investors, which will produce growth in the demand.
+
+Coin Name: DIVERSE
+Ticker: DVRS
+Algorithm: Scrypt
+Type: POW / POS
+Maximum money: 5 billion (5,000,000,000)
+Premine: [0.5%] 25 million (25,000,000)
+p2p port=37772
+rpc port=37773
+Block Time: 2 min till 10,000 blocks, 3 min afterwards.
+Minimum stake age: 6 hours 
+Coinbase maturity: 10 confirmations
+Max block size: 2000000
