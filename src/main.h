@@ -32,6 +32,9 @@ static const int LAST_POW_BLOCK_V1 = 10000;
 static const int POW_RE_ENABLE = 10001;  
 // static const int LAST_POW_BLOCK = 1000000000;
 
+static const unsigned int FORK_TIME = 1520571289;
+static const unsigned int FORK_TIME_2 = 1520613000;
+
 /** The maximum allowed size for a serialized block, in bytes (network rule) */
 static const unsigned int MAX_BLOCK_SIZE = 2000000;
 /** The maximum size for mined blocks */
